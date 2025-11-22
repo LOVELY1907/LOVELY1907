@@ -39,4 +39,3 @@
 ## 🟢 Quotes I Live By
 > “Programming isn't about what you know; it's about what you can figure out.” — Chris Pine  
 > “The only thing standing between you and your goal is the story you keep telling yourself.”
-> 
