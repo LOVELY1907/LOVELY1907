@@ -1,41 +1,34 @@
-<img src="https://i.imgur.com/lnzXfFh.gif" width="100%"/>
-
-<h1 align="center">👾 Lovely Pavithra G — Cyber Explorer</h1>
-<h3 align="center">IoT • Cybersecurity • Blockchain • AI/ML</h3>
+<h1 align="center">🌸 Lovely Pavithra 🌸</h1>
+<h3 align="center">Learning • Growing • Building</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hacker%20Vibes-00ff00?style=for-the-badge&logo=matrix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0f0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding%20Journey%20✨-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning%20Every%20Day%20🌼-ffb6c1?style=for-the-badge" />
 </p>
 
 ---
 
-## 🟢 Who Am I?
-💻 A curious tech learner  
-🔐 Future Cybersecurity expert  
-⚡ I love hacking things — ethically  
-🛰️ IoT, AI/ML & Blockchain fascinate me  
-🔥 Learning Linux, Python, and system-level tools  
+## 🌼 About Me  
+- 🌱 Slowly growing into a full CS engineer  
+- 💗 Interested in AI/ML, Cybersecurity & IoT  
+- 📘 Love Python + C + HTML  
+- 🌈 Believe in learning one step at a time  
 
 ---
 
-## 🟢 Skills (so far)
+## 🧸 Skills  
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html" />
 
 ---
 
-## 🟢 GitHub Stats (Hacker Style)
+## 🌸 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LOVELY1907&theme=chartreuse-dark&show_icons=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOVELY1907&layout=compact&theme=chartreuse-dark" height="150" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=LOVELY1907&theme=chartreuse-dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=LOVELY1907&show_icons=true&theme=rose_pine" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOVELY1907&layout=compact&theme=rose_pine" height="150" />
 </p>
 
 ---
 
-## 🟢 Quotes I Live By
-> “Programming isn't about what you know; it's about what you can figure out.” — Chris Pine  
+## 🌈 Quotes
+> “Programming isn't about what you know; it's about what you can figure out.”  
 > “The only thing standing between you and your goal is the story you keep telling yourself.”
