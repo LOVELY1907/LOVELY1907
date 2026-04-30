@@ -1,101 +1,112 @@
-<!-- 🔹 SMALL FUTURISTIC BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/mGQFJuH.gif" width="65%" />
-</p>
+<!-- HEADER --><h1 align="center">Lovely Pavithra G</h1>
+<h3 align="center">🔐 Cybersecurity | IoT Security | AI/ML</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=650&lines=Building+Neuroxis-IDS;Cybersecurity+%2B+AI+Enthusiast;IoT+Security+Learner;Learning+by+Building+and+Breaking" />
+</p>---
 
-<!-- 🔹 STARTING QUOTE -->
-<h2 align="center">“Programming isn't about what you know; it's about what you can figure out.” — Chris Pine</h2>
+🧠 About Me
 
----
-
-# 👾 **Lovely Pavithra G — Cybersecurity | AI/ML | IoT | Blockchain Learner**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-00ff00?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-7f00ff?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blockchain-00d0ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-ff0099?style=for-the-badge"/>
-</p>
+- 🔐 Cybersecurity enthusiast focused on network & web security
+- 🤖 Exploring AI/ML & Deep Learning for security applications
+- ⚡ Hands-on with tools like Nmap, Wireshark, OWASP ZAP
+- 🛠️ Building real-world projects and learning by doing
+- 🎯 Goal: Become an IoT Security Specialist
 
 ---
 
-# 🌐 **Who Am I? (Aesthetic Hacker + Futuristic Style)**  
-- 🔐 Aspiring **Cybersecurity** expert & **ethical hacker in training**  
-- 🤖 Passionate about **AI/ML**, **Blockchain**, and **IoT**  
-- 💻 A **curious learner** who loves breaking complex concepts into simple ideas  
-- 🚀 Slowly growing into a **full CS engineer**  
-- ✨ Believe in learning **one step at a time**  
-- 🧠 Love writing clean code & solving real-world problems  
-- 🔍 Currently exploring:  
-  - Cybersecurity  
-  - AI/ML  
-  - Blockchain  
-  - IoT  
-  - Flask backend  
-  - Git & GitHub  
-  - Linux (Kali in VirtualBox)
+🚧 Currently Building
+
+🔐 Neuroxis-IDS (NeuroBlockchain XAI Intrusion Detection System)
+
+- AI-powered adaptive intrusion detection system
+- Uses ML models for threat classification
+- Exploring explainable AI (XAI) for transparency
+- Future scope: secure logging using blockchain
 
 ---
 
-# 🛠️ **Tech Stack**
+🛠️ Tech Stack
 
-### ✔ **Languages I Know**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" height="60"/>
-</p>
+🔐 Cybersecurity
 
-### ✔ **Learning Now**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,flask" height="60"/>
-</p>
+Nmap • Wireshark • OWASP ZAP • SQL Injection • John the Ripper
 
----
+🤖 AI / ML / DL
 
-# 🔮 **My Learning Journey**
-- 🌱 Practicing Python, C, C++  
-- 🧩 Understanding cybersecurity fundamentals  
-- 🕵️ Learning Kali Linux tools  
-- 🌐 Building small web projects  
-- 🔗 Exploring blockchain basics  
-- 🤖 Learning ML algorithms (slowly but steadily)
+Linear Regression • Logistic Regression • Random Forest • KNN
+CNN • RNN • LSTM • Transformers (basics)
 
----
+🐧 Systems
 
-# 🗂️ **My Projects**
-*(Click-like boxes but not actual links yet — will replace once you give links)*
+Linux (Kali) • Bash
 
-### 📁 **Student Management System**
-[`View Project`](#)
+💻 Programming
 
-### 🤖 **AI ChatBot**
-[`View Project`](#)
+Python • C • C++
+
+🌐 Web (Learning)
+
+HTML • CSS • React • Node.js • Express.js
 
 ---
 
-# 📊 **GitHub Analytics (Neon Hacker Style)**  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LOVELY1907&show_icons=true&theme=chartreuse-dark" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOVELY1907&layout=compact&theme=chartreuse-dark" height="150"/>
-</p>
+🚀 Projects
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=LOVELY1907&theme=tokyonight" />
-</p>
+🔐 IoT Security – Digital DNA
+→ Cryptographic approach for securing IoT devices
+
+🤖 Medisafe AI
+→ Predicts medication dosage risks using ML
+
+🌐 Food Recommendation System
+→ Suggests recipes using dataset-based filtering
+
+📊 Habit Tracker
+→ Tracks user behavior with analytics
+
+🤖 AI Chatbot
+→ Real-time chatbot using API integration
 
 ---
 
-# 📬 **Connect With Me**
-*(These will look like clickable boxes)*
+🧠 AI / ML Work
+
+- 📊 Machine Learning Models (Regression & Classification)
+- 🤖 Deep Learning (CNN, RNN, LSTM)
+- 🧾 NLP basics & experiments
+
+---
+
+📊 GitHub Stats
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-0f0?style=for-the-badge&logo=geeksforgeeks&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LOVELY1907&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>---
+
+🎯 Current Focus
+
+- 🔐 VAPT & cybersecurity labs
+- 📡 IoT security concepts
+- 🤖 Neuroxis-IDS development
 
 ---
 
-<!-- 🔹 ENDING QUOTE -->
-<h2 align="center">“The only thing standing between you and your goal is the story you keep telling yourself.”</h2>
+🎯 2026 Goals
+
+- Become an IoT Security Specialist
+- Master penetration testing & network security
+- Build advanced AI-powered security systems
+
+---
+
+🔗 Connect
+
+<p align="center">
+  <a href="https://github.com/LOVELY1907">GitHub</a> • 
+  <a href="#">LinkedIn</a> • 
+  <a href="#">LeetCode</a> • 
+  <a href="#">HackerRank</a>
+</p>---
+
+<p align="center">
+  💬 <i>"I don’t just learn security — I build and break systems to understand them."</i>
+</p>
