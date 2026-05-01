@@ -1,38 +1,71 @@
-<!-- 🔥 CYBERPUNK BANNER --><p align="center">
+<!-- 🔥 CYBER BANNER --><p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </p><h1 align="center">👾 Lovely Pavithra G</h1><p align="center">
   <b>🔐 Cybersecurity • 🤖 AI/ML • 📡 IoT Security</b>
-</p><!-- ⚡ CYBER TYPING --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=750&lines=Neuroxis-IDS+%7C+AI+Powered+Cybersecurity;Breaking+Systems+to+Secure+Them;IoT+Security+%2B+AI+Fusion;Future+Security+Engineer" />
+</p><!-- ⚡ TYPING --><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=750&lines=Neuroxis-IDS+%7C+AI+Cybersecurity;Intrusion+Detection+Systems;IoT+Security+Engineer;Building+Real+Security+Systems" />
 </p>---
 
 ⚡ SYSTEM PROFILE
 
-+ Cybersecurity Engineer (in progress)
-+ AI/ML applied to intrusion detection
-+ IoT security enthusiast
++ Cybersecurity + AI Engineer (in progress)
++ Building Neuroxis-IDS (AI Intrusion Detection System)
++ Focus: IoT Security + XAI + Blockchain
 
 ---
 
-🧠 CORE DOMAINS
+💻 PROGRAMMING
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bash" />
 </p>---
 
-🔐 CYBER TOOLKIT
+☁️ CLOUD / DEVOPS
 
-"Nmap" • "Wireshark" • "OWASP ZAP"
-"SQL Injection" • "John the Ripper"
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,heroku,vercel" />
+</p>---
 
----
+⚛️ FRAMEWORKS
 
-🤖 AI / ML STACK
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>---
 
-"Random Forest" • "KNN" • "Regression"
-"CNN" • "RNN" • "LSTM" • "Transformers (basic)"
+🗄️ DATABASES
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>---
+
+🤖 AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Keras-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SciPy-00FFAA?style=for-the-badge"/>
+</p>---
+
+🔧 VERSION CONTROL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>---
+
+🎨 DESIGN
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Canva-00FFAA?style=for-the-badge"/>
+</p>---
 
 🚧 MAIN PROJECT
 
@@ -40,32 +73,22 @@
 
 NeuroBlockchain XAI Intrusion Detection System
 
-- ⚡ AI-powered intrusion detection
-- 🧠 Explainable AI decisions
-- 🔗 Blockchain-based logging (experimental)
-- 📡 IoT-focused security system
+- ⚡ AI-powered threat detection
+- 🧠 Explainable ML models
+- 🔗 Blockchain logging (planned)
+- 📡 IoT security focus
 
 ---
 
-📊 GITHUB ANALYTICS
+📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LOVELY1907&show_icons=true&theme=shadow_blue&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LOVELY1907&show_icons=true&theme=shadow_blue&hide_border=true&title_color=00F7FF&icon_color=00FFAA"/>
 </p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LOVELY1907&theme=shadow_blue&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LOVELY1907&theme=shadow_blue&hide_border=true&ring=00FFAA&fire=00F7FF"/>
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOVELY1907&layout=compact&theme=shadow_blue&hide_border=true"/>
 </p>---
-
-🚀 PROJECT ZONE
-
-🔐 DIGITALDNA-IOTSECURITY
-🤖 MEDISAFE-AI
-🍽️ FOOD RECOMMENDER
-📊 HABIT TRACKER
-🤖 AI CHATBOT
-
----
 
 🌐 CONNECT
 
@@ -75,14 +98,6 @@ NeuroBlockchain XAI Intrusion Detection System
   <a href="https://leetcode.com/u/lovelyPavithraG/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
 </p>---
 
-🎯 CURRENT OBJECTIVE
-
-+ Build real-world cybersecurity systems
-+ Integrate AI with threat detection
-+ Strengthen VAPT + IoT security skills
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1A1A2E&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FFAA&height=120&section=footer"/>
 </p>
