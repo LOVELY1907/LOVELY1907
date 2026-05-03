@@ -29,8 +29,8 @@ Cybersecurity + AI = Future
 <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 </p><hr style="border:1px solid #00ff9c; opacity:0.25;"><!-- ================== GITHUB ================== --><h2 align="center">⚡ GITHUB ANALYTICS</h2><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LOVELY1907&show_icons=true&theme=tokyonight&border_radius=10" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOVELY1907&layout=compact&theme=tokyonight&border_radius=10" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LOVELY1907&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LOVELY1907&theme=github_dark"/>
 </p><p align="center">
 <img src="https://streak-stats.demolab.com?user=LOVELY1907&theme=tokyonight&border_radius=10"/>
 </p><p align="center">
