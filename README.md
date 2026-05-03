@@ -2,7 +2,7 @@
   <img src="assets/banner.jpeg" width="100%" />
 </p><!-- ================== TAGLINE ================== --><h2 align="center" style="color:#00ff9c;">
 Cybersecurity + AI = Future
-><!-- ================== TECH STACK ================== --><h2 align="center">🧠 TECH STACK</h2><!-- ROW 1 --><p align="center">
+</h2><hr style="border:1px solid #00ff9c; opacity:0.25;"<!-- ================== TECH STACK ================== --><h2 align="center">🧠 TECH STACK</h2><!-- ROW 1 --><p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bash" />
 </p><!-- ROW 2 --><p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,aws,azure,gcp" />
