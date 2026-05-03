@@ -1,8 +1,6 @@
 <!-- ================== BANNER ================== --><p align="center">
   <img src="assets/banner.jpeg" width="100%" />
-</p><!-- ================== NEON TAGLINE ================== --><h2 align="center">
-  <span style="color:#8A2BE2; font-weight:bold;">I BREAK</span>
-  <span style="color:#00ff9c; font-weight:bold;"> TO FIX</span>
+</p><!-- ================== NEON TAGLINE ================== --><h1 align="center">
 </h2><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00ff9c&center=true&vCenter=true&width=600&lines=breaking+systems+since+day+1...;fixing+them+better+since+day+2;ai+%2B+security+%3D+future" />
 </p><hr style="border:1px solid #00ff9c; opacity:0.3;"><!-- ================== TECH STACK ================== --><h2 align="center"><b>🧠 TECH STACK</b></h2><p align="center">
