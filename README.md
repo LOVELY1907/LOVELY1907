@@ -1,219 +1,61 @@
-<h1>📘 SAP AI / ML / DL Notes</h1>
+<!-- ================== BANNER ================== --><p align="center">
+  <img src="assets/banner.jpeg" width="100%" />
+</p><!-- ================== NEON TAGLINE ================== --><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=600&lines=I+BREAK+TO+FIX;I+BREAK+TO+FIX;I+BREAK+TO+FIX" />
+</p><hr style="border:1px solid #00ff9c; opacity:0.3;"><!-- ================== TECH STACK ================== --><h2 align="center">🧠 TECH STACK</h2><p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bash,powershell" />
+</p><p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+</p><p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" />
+</p><p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p><p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p><p align="center">
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p><!-- ML extras --><p align="center">
+<img src="https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras"/>
+<img src="https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/-MLflow-black?style=flat-square"/>
+</p><!-- ================== CYBER ================== --><h3 align="center">🔐 CYBERSECURITY</h3><p align="center">
+<img src="https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark"/>
+<img src="https://img.shields.io/badge/-Nmap-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Metasploit-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Metasploitable-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-JohnRipper-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Gophish-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Chkrootkit-black?style=flat-square"/>
+</p><p align="center">
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux"/>
+</p><hr style="border:1px solid #00ff9c; opacity:0.3;"><!-- ================== CONNECT ================== --><h2 align="center">🌐 CONNECT</h2><p align="center">
+<a href="https://www.linkedin.com/in/lovely-g-6b0962377">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>  
 
-<p>This repository contains structured notes on Artificial Intelligence, Machine Learning, and Deep Learning.</p>
+<a href="https://github.com/LOVELY1907">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
 
-<hr>
+<a href="https://leetcode.com/u/lovelyPavithraG/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>  
 
-<h2>🚀 Machine Learning Workflow</h2>
-<p><b>Problem → Data → Cleaning → EDA → Feature Engineering → Model → Evaluation → Optimization → Deployment</b></p>
-
-<hr>
-
-<h2>🔹 Steps in Machine Learning / Deep Learning</h2>
-<ul>
-  <li><b>Step 1:</b> Data Ingestion</li>
-  <li><b>Step 2:</b> Data Cleaning</li>
-  <li><b>Step 3:</b> Preprocessing / EDA</li>
-  <li><b>Step 4:</b> Model Building</li>
-</ul>
-
-<hr>
-
-<h2>🧹 Data Cleaning</h2>
-<ol>
-  <li>Handling Null Values</li>
-  <li>Removing Duplicate Rows</li>
-  <li>Removing Unintended Rows</li>
-</ol>
-
-<hr>
-
-<h2>📊 Exploratory Data Analysis (EDA)</h2>
-<ul>
-  <li>Understanding Data Types (Numerical / Categorical)</li>
-  <li>Distribution Analysis (Histograms, Skewness)</li>
-  <li>Correlation Matrix</li>
-  <li>Feature Relationships</li>
-  <li>Handling Imbalanced Data</li>
-</ul>
-
-<hr>
-
-<h2>⚙️ Data Preprocessing</h2>
-
-<h3>📊 Scaling</h3>
-<ul>
-  <li>Standardization</li>
-  <li>Normalization</li>
-</ul>
-
-<h3>⚠️ Outliers</h3>
-<ul>
-  <li><b>Detection:</b> IQR, Z-Score</li>
-  <li><b>Removal:</b> Trimming, Capping</li>
-</ul>
-
-<h3>🔄 Feature Transformers</h3>
-<ul>
-  <li>Power Transformer</li>
-  <li>Log Transformation</li>
-  <li>Cox Transformation</li>
-</ul>
-
-<hr>
-
-<h2>🧠 Feature Engineering</h2>
-<ul>
-  <li>Encoding Techniques:
-    <ul>
-      <li>Label Encoding</li>
-      <li>One-Hot Encoding</li>
-      <li>Target Encoding</li>
-    </ul>
-  </li>
-  <li>Binning / Discretization</li>
-  <li>Feature Interaction</li>
-</ul>
-
-<h3>🎯 Feature Selection / Extraction</h3>
-<ul>
-  <li>Principal Component Analysis (PCA)</li>
-</ul>
-
-<h3>🏗️ Feature Construction</h3>
-<ul>
-  <li>Date & Time Features</li>
-</ul>
-
-<hr>
-
-<h2>🔀 Data Splitting</h2>
-<ul>
-  <li>Train-Test Split</li>
-</ul>
-
-<hr>
-
-<h2>🤖 Machine Learning Algorithms</h2>
-
-<h3>📈 Regression</h3>
-<ul>
-  <li>Linear Regression</li>
-  <li>Ridge / Lasso</li>
-  <li>Decision Tree Regressor</li>
-  <li>Random Forest</li>
-  <li>Gradient Boosting</li>
-</ul>
-
-<h3>📊 Classification</h3>
-<ul>
-  <li>Logistic Regression</li>
-  <li>K-Nearest Neighbors (KNN)</li>
-  <li>Support Vector Machine (SVM)</li>
-  <li>Naive Bayes</li>
-  <li>Decision Tree</li>
-  <li>Random Forest</li>
-</ul>
-
-<hr>
-
-<h2>📏 Model Evaluation</h2>
-
-<h3>Regression Metrics</h3>
-<ul>
-  <li>MAE</li>
-  <li>MSE</li>
-  <li>RMSE</li>
-  <li>R² Score</li>
-</ul>
-
-<h3>Classification Metrics</h3>
-<ul>
-  <li>Accuracy</li>
-  <li>Precision</li>
-  <li>Recall</li>
-  <li>F1 Score</li>
-  <li>Confusion Matrix</li>
-  <li>ROC-AUC Curve</li>
-</ul>
-
-<hr>
-
-<h2>⚡ Model Optimization</h2>
-<ul>
-  <li>Hyperparameter Tuning:
-    <ul>
-      <li>Grid Search</li>
-      <li>Random Search</li>
-    </ul>
-  </li>
-  <li>Cross Validation (K-Fold)</li>
-</ul>
-
-<hr>
-
-<h2>🧬 Deep Learning</h2>
-
-<h3>Basics</h3>
-<ul>
-  <li>Neurons</li>
-  <li>Activation Functions (ReLU, Sigmoid, Tanh)</li>
-  <li>Loss Functions</li>
-</ul>
-
-<h3>Architectures</h3>
-<ul>
-  <li>ANN (Artificial Neural Networks)</li>
-  <li>CNN (Computer Vision)</li>
-  <li>RNN / LSTM (Sequential Data)</li>
-</ul>
-
-<hr>
-
-<h2>🗣️ Natural Language Processing (NLP)</h2>
-<ul>
-  <li>Text Preprocessing (Tokenization, Stemming, Lemmatization)</li>
-  <li>Bag of Words</li>
-  <li>TF-IDF</li>
-  <li>Word Embeddings</li>
-</ul>
-
-<hr>
-
-<h2>📊 Time Series</h2>
-<ul>
-  <li>Trend & Seasonality</li>
-  <li>Lag Features</li>
-  <li>ARIMA Basics</li>
-</ul>
-
-<hr>
-
-<h2>🚀 Deployment</h2>
-<ul>
-  <li>Model Saving (Pickle / Joblib)</li>
-  <li>API Development (Flask / FastAPI)</li>
-  <li>Basic Deployment Concepts</li>
-</ul>
-
-<hr>
-
-<h2>🔐 AI + Cybersecurity</h2>
-<ul>
-  <li>Data Poisoning Attacks</li>
-  <li>Model Evasion Attacks</li>
-  <li>Adversarial Examples</li>
-  <li>Secure ML Pipelines</li>
-  <li>Privacy (Differential Privacy Basics)</li>
-</ul>
-
-<hr>
-
-<h2>📈 Example Problem</h2>
-<ul>
-  <li>Linear Regression (Predicting Numerical Values)</li>
-</ul>
-
-<hr>
-
-<p align="center">🔥 Building AI + Security Expertise 🚀</p>
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+</p><hr style="border:1px solid #00ff9c; opacity:0.3;"><!-- ================== GITHUB STATS ================== --><h2 align="center">⚡ GITHUB ANALYTICS</h2><p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LOVELY1907&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOVELY1907&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" width="48%"/>
+</p><p align="center">
+<img src="https://streak-stats.demolab.com?user=LOVELY1907&theme=tokyonight&hide_border=false&border_radius=12"/>
+</p><p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LOVELY1907&theme=matrix&no-frame=false&margin-w=10&margin-h=10"/>
+</p><hr style="border:1px solid #00ff9c; opacity:0.3;"><!-- ================== QUOTE ================== --><p align="center">
+  <img src="assets/quote.jpeg" width="100%" />
+</p>
